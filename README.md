@@ -4,7 +4,7 @@ Um mini projeto de ToDoList proposto pelo site devChallenge.io. Nesse projeto pu
 - Uso de hooks 🪝
 - Criação de projeto com Vite  <img align="center" alt="Ray-CSS" height="15" width="20" src="https://seeklogo.com/images/V/vite-logo-BFD4283991-seeklogo.com.png" />
 - HTML e CSS <img align="center" alt="Ray-HTML" height="15" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img align="center" alt="Ray-CSS" height="15" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-- so de LocalStorage para preservar o progresso ao dar refresh ou fechar o navegador 🗃️
+- Uso de LocalStorage para preservar o progresso ao dar refresh ou fechar o navegador 🗃️
 
 # Vídeo de Demonstração:
 https://user-images.githubusercontent.com/89555441/203645870-24a1259b-fe03-40df-8325-9f3c10cf5cc7.mp4
